@@ -1,0 +1,5 @@
+msxsl.exe script1.xml script1.xml
+
+(or)
+
+msxsl.exe script2.xsl script2.xsl
