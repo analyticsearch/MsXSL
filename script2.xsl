@@ -1,6 +1,4 @@
 <?xml version='1.0'?>
-<!-- msxsl.exe poc.xml poc.xml -->
-
 <stylesheet
 xmlns="http://www.w3.org/1999/XSL/Transform" xmlns:ms="urn:schemas-microsoft-com:xslt"
 xmlns:user="placeholder"
